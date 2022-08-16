@@ -1,9 +1,9 @@
 
 
 # Chuck Norris Joke Generator
-A jokes app.
-
-This project is a part of a [JS Course](https://udemy.com/course/modern-javascript-from-the-beginning/) which I enrolled by [Brad Traversy](https://github.com/bradtraversy)
+A joke generator app.
+[Laugh here](https://chuck-norris-joke-generator-mu.vercel.app/)
+This project is a part of a [JS Course](udemy.com/course/modern-javascript-from-the-beginning/) which I enrolled by [Brad Traversy](https://github.com/bradtraversy)
 
 Used [Chuck Norris API](https://api.chucknorris.io/) created by [Mathias](https://github.com/matchilling)
 
@@ -16,6 +16,6 @@ Used [Chuck Norris API](https://api.chucknorris.io/) created by [Mathias](https:
 ## Tech Stack
 - HTML/CSS
 - JS
-- AJAX 
+- AJAX 	
 - XMLHttpRequest (XHR)
 
