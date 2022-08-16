@@ -3,7 +3,7 @@
 # Chuck Norris Joke Generator
 A joke generator app.
 
-This project is a part of a [JS Course](udemy.com/course/modern-javascript-from-the-beginning/) which I enrolled by [Brad Traversy](https://github.com/bradtraversy)
+This project is a part of a [JS Course](https://udemy.com/course/modern-javascript-from-the-beginning/) which I enrolled by [Brad Traversy](https://github.com/bradtraversy)
 
 Used [Chuck Norris API](https://api.chucknorris.io/) created by [Mathias](https://github.com/matchilling)
 
