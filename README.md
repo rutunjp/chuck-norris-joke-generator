@@ -1,7 +1,7 @@
 
 
 # Chuck Norris Joke Generator
-A joke generator app.
+A jokes app.
 
 This project is a part of a [JS Course](https://udemy.com/course/modern-javascript-from-the-beginning/) which I enrolled by [Brad Traversy](https://github.com/bradtraversy)
 
